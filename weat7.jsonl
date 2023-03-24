@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "Male",
+    "examples": [
+      "male",
+      "man",
+      "boy",
+      "brother",
+      "he",
+      "him",
+      "his",
+      "son"
+    ]
+  },
+  "targ2": {
+    "category": "Female",
+    "examples": [
+      "female",
+      "woman",
+      "girl",
+      "sister",
+      "she",
+      "her",
+      "hers",
+      "daughter"
+    ]
+  },
+  "attr1": {
+    "category": "Math",
+    "examples": [
+      "algebra",
+      "math",
+      "geometry",
+      "calculus",
+      "equation",
+      "computation",
+      "number",
+      "addition"
+    ]
+  },
+  "attr2": {
+    "category": "Arts",
+    "examples": [
+      "poetry",
+      "art",
+      "dance",
+      "literature",
+      "novel",
+      "symphony",
+      "drama",
+      "sculpture"
+    ]
+  }
+}
